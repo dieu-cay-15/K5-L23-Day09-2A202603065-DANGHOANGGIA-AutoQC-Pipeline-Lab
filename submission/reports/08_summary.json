@@ -1,0 +1,18 @@
+{
+  "verdict": {
+    "decision": "Hold",
+    "n_errors": 0,
+    "n_warn_images": 38,
+    "n_images": 202,
+    "warn_ratio": 0.1881,
+    "reasons": [
+      "không còn lỗi bắt buộc nhưng tỉ lệ ảnh cảnh báo chưa duyệt 38/202 (18.8%) >= ngưỡng 10.0%"
+    ]
+  },
+  "reviewed": 80,
+  "budget": 80,
+  "seconds": 8.8,
+  "exported": "C:\\Users\\Administrator\\Downloads\\K5-L23-Day09-2A202603065-DANGHOANGGIA-AutoQC-Pipeline-Lab-main\\K5-L23-Day09-2A202603065-DANGHOANGGIA-AutoQC-Pipeline-Lab-main\\submission\\export\\clean_v1",
+  "config_sha1": "29f609e249e5b07b4c173f9cf0205fe94e727fbe",
+  "review_sim_sha1": "7988ca22827f780a7043a2300490e679a1697154"
+}
